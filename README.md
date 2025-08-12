@@ -1,7 +1,22 @@
-HR Analysis Dashboard
+## HR Analysis Dashboard 📊
 
-Project : Analysis the number of HR in the company.
+## 📌 Project Overview
+The HR Analysis Dashboard is an interactive visualization tool designed to help HR teams and management analyze employee data effectively.
+It provides insights into workforce demographics, performance, attrition, and engagement trends, enabling data-driven decision-making in human resource management.
 
-Poject overview : I worked as a Data analyst, tasked with exploring the number of HR in the company. My goal was to use quatitative analysis to provide valuable recommedation to the Company. I used my analytical skills to sift through HR data,identify patterns, conduct in- depth research, and gentrate insightes based on the data that could inform Company decisions.
+------
 
-Tool Used : PowerBI  for Visual Analysis
+## 🎯 Objectives
+Analyze employee demographics such as age, gender, department, and job roles.
+Monitor employee attrition and identify key factors contributing to turnover.
+Track performance metrics and workforce productivity.
+Provide visual insights for strategic HR planning.
+Enable interactive filtering for deep analysis.
+
+-------
+
+🛠️ Tools & Technologies
+Power BI / Tableau – Dashboard creation & visualization
+Excel / CSV Data Source – Employee dataset
+DAX – Custom measures and calculated columns
+Power Query – Data cleaning and transformation
